@@ -137,7 +137,7 @@
                     <li><a href="https://github.com/thameemk612" target="_blank"><span class="icon-github"></span></a></li>
                   </ul>
                   <h5>Contact me here!</h5>
-                  <p>Email: <a href="#">thameemk612@gmail.com</a></p>
+                  <p>Email: <a href="#">thameemk612@ieee.org</a></p>
 
                 </div>
               </div>
@@ -185,30 +185,20 @@
                   <h3 class="heading">Adobe Photoshop </h3>
                   <h3 class="heading">Arduino</h3>
                   <h3 class="heading">Visual Studio</h3>
-                  <h3 class="heading">Android Studio</h3>
+		  <h3 class="heading">AWS</h3>
+                  <h3 class="heading">Azure</h3>
+                 
+                
+               
+                  
+ 
                   <h3 class="heading">Microsoft Office</h3>
                   <h3 class="heading">OpenCV</h3>
                   <h3 class="heading">NodeJS</h3>
                 </div>
               </div>
             </div>
-            <div class="col-md-4 d-flex align-self-stretch ftco-animate">
-              <div class="media block-6 services p-3 py-4 d-block text-center">
-                <div class="icon mb-3"><span class="icon-layers"></span>
-                </div>
-                <div class="media-body">
-                  <h3 class="heading">AWS</h3>
-                  <h3 class="heading">Azure</h3>
-                  <h3 class="heading">Google Cloud</h3>
-                  <h3 class="heading">Gitlab</h3>
-                  <h3 class="heading">BitBucket</h3>
-                  <h3 class="heading">IBM </h3>
-                  <h3 class="heading">CodeIgniter</h3>
-                  <h3 class="heading">Heroku</h3>
-
-                </div>
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>
