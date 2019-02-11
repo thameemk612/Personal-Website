@@ -187,18 +187,18 @@
                   <h3 class="heading">Visual Studio</h3>
 		  <h3 class="heading">AWS</h3>
                   <h3 class="heading">Azure</h3>
-                 
-                
-               
-                  
- 
+
+
+
+
+
                   <h3 class="heading">Microsoft Office</h3>
                   <h3 class="heading">OpenCV</h3>
                   <h3 class="heading">NodeJS</h3>
                 </div>
               </div>
             </div>
-            
+
           </div>
         </div>
       </div>
@@ -213,6 +213,32 @@
             </div>
           </div>
           <div class="row no-gutters">
+            <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+              <span class="image order-2 d-flex justify-content-center align-items-center" style="background-image: url('images/222.png'); " data-scrollax=" properties: { translateY: '-30%'}">
+                <div class="icon d-flex text-center justify-content-center align-items-center">
+                  <span class="icon-search"></span>
+                </div>
+              </span>
+              <div class="text order-1">
+                <h4 class="subheading">WebSite</h4>
+                <h2 class="heading">Evoke19</h2>
+                <p align="justify">TKM College of Engineering, Kollam, Kerala presents 'EVOKE'19: The dawn of green intelligence, conducted by IEDC and IEEE TKMCE. In the present era where the rising concern regarding environmental protection and the need for smart technologies explosively overlap, EVOKE'19 brings out the technical rich minds to the stage.</p>
+                <p><a href="http://evoke19.com/" target="_blank">View Project</a></p>
+              </div>
+            </div>
+            <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+              <span class="image d-flex justify-content-center align-items-center" style="background-image: url('images/333.png'); " data-scrollax=" properties: { translateY: '-30%'}">
+                <div class="icon d-flex text-center justify-content-center align-items-center">
+                  <span class="icon-search"></span>
+                </div>
+              </span>
+              <div class="text">
+                <h4 class="subheading">WebSite</h4>
+                <h2 class="heading">ECE TKMCE</a></h2>
+                <p align="justify">The Department of Electronics & Communication Engineering, started in the year 1977, has carved a niche for itself by offering the most competent instructional programme to the students.....</p>
+                <p><a href="https://ecetkmce.ml/" target="_blank">View Project</a></p>
+              </div>
+            </div>
 
             <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
               <span class="image order-2 d-flex justify-content-center align-items-center" style="background-image: url('images/work-1.png'); " data-scrollax=" properties: { translateY: '-30%'}">
