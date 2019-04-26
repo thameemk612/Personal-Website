@@ -8,6 +8,19 @@
   <meta name="description" content="Thameem karakkoth">
   <meta name="keywords" content="Thameem Karakkoth,thameemk612,Web developer,Machine Learning and cybersecurity
   enthusiast,Crypto Beginner,embedded programmer">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129415078-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-129415078-1');
+  </script>
+
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="shortcut icon" href="images/author-1.jpg">
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,700" rel="stylesheet">
@@ -391,19 +404,7 @@
 
   </div>
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129415078-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-129415078-1');
-  </script>
-
+  
   <script src="js/jquery.min.js"></script>
   <script src="js/jquery-migrate-3.0.1.min.js"></script>
   <script src="js/popper.min.js"></script>
